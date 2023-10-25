@@ -1,2 +1,2 @@
-1- animal(X), color(X, Color), dite(X, Diet), species(X, Species).
+1- animalInfo(Animal, Color, Diet, Species)
 

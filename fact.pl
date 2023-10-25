@@ -29,3 +29,10 @@ species(zebra,mammals).
 species(dolphin,mammals).
 species(penguin,birds).
 species(gorila,mammals).
+
+
+animalInfo(Animal, Color, Diet, Species) :- 
+    animal(Animal), 
+    color(Animal, Color), 
+    dite(Animal, Diet), 
+    species(Animal, Species).
