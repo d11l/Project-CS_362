@@ -1,3 +1,0 @@
-1- color(lion, Color).
-2- dite(zebra, Diet).
-3- species(penguin, Species).
